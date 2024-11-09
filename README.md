@@ -1,0 +1,1 @@
+Esta página contiene el examen práctico realizado para materia, en el se encuentra mi currículum vitae en un archivo y en otro contiene los estilos utilizados para esta página. Los elementos usados aquí son variados, tables, colspan, rowspan, elementos de semántica, etc.
